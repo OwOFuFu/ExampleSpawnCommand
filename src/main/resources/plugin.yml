@@ -1,0 +1,8 @@
+name: Provino
+version: '${version}'
+main: fur.kiyoshi.provino.Provino
+api-version: 1.19
+commands:
+  spawn:
+    description: "Spawn command"
+    aliases: [sp]

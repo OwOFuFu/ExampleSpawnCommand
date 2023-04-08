@@ -1,0 +1,21 @@
+#      ____                  _
+#     / __ \_________ _   __(_)___  ____
+#    / /_/ / ___/ __ \ | / / / __ \/ __ \
+#   / ____/ /  / /_/ / |/ / / / / / /_/ /
+#  /_/   /_/   \____/|___/_/_/ /_/\____/
+#
+
+Messages:
+  ConsoleMessage: "&cYou are not a player."
+  AccessDenied: "&cAccess Denied."
+  SpawnSet: "&aNew spawn location successfully set."
+  SpawnTp: "&aTeleported to the spawn!"
+  SpawnObstructed: "&cThe spawn location is obstructed, notify this error" # non so che scrivere lascio cosi'
+
+SpawnCoords:
+  world: "world"
+  x: 0
+  y: 0
+  z: 0
+  pitch: 0
+  yaw: 0
